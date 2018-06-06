@@ -11,6 +11,6 @@ gem "pry", :group => "development"
 #   gem "pry"
 # end
 
-group :development do
-  gem "pry"
+group :test do
+  gem "rspec"
 end
